@@ -4,10 +4,10 @@ Ecommerce Dashboard Project based on popular library react. It has REST API supp
 
 Live Site:- https://yummyecommdash.netlify.app
 ---
-![](https://github.com/FahimAdnan-CSE/Ecommerce-Dashboard-React-With-Laravel-API/1.jpg)
+![](https://github.com/FahimAdnan-CSE/Ecommerce-Dashboard-React-With-Laravel-API/blob/master/1.jpg)
 ---
 ---
-![](https://github.com/FahimAdnan-CSE/react-yummy-recipes/blob/master/yummyrecipes-2.jp)
+![](https://github.com/FahimAdnan-CSE/Ecommerce-Dashboard-React-With-Laravel-API/blob/master/2.jpg)
 
 What technologies were used?
 ---
